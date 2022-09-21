@@ -1,0 +1,12 @@
+HolaKid/HolaKid/Implementations/Activities/BookReading/Books
+CloudFunctions/functions/node_modules
+CloudFunctions/node_modules
+*.xcuserstate
+together.pem
+xcuserdata
+TwilioVideo
+report.xml
+test_output
+.DS_Store
+*.ipa
+*.dSYM.zip
